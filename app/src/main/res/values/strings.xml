@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">O Curador das Areias</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_skins">Skins</string>
+    <string name="title_quotes">Frases</string>
+    <string name="champion_name">Nasus</string>
+    <string name="champion_headline">O CURADOR DAS AREIAS</string>
+
+    <string name="button_update_skin">Update Skin</string>
+    <string name="button_play_audio">Play the audio</string>
+    <string name="autoplay_switch">Autoplay when selected</string>
+    
+    <array name="champion_audio_description">
+        <item>Joke 1</item>
+        <item>Joke 2</item>
+        <item>Joke 3</item>
+        <item>Taunt 1</item>
+        <item>Taunt 2</item>
+        <item>Laugh 1</item>
+        <item>Laugh 2</item>
+        <item>Laugh 3</item>
+        <item>Laugh 4</item>
+        <item>Laugh 5</item>
+        <item>Saul Goodman - Be Warned!!!</item>
+    </array>
+</resources>

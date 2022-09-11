@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Theme - 6 Colors -->
+    <color name="red_wine">#FFB00020</color>
+    <color name="dark_red_wine">#FF7A0016</color>
+    <color name="red_wine_contrast">#FFF0E6D2</color>
+
+    <color name="hot_pink">#FFE91E63</color>
+    <color name="dark_hot_pink">#A81648</color>
+    <color name="hot_pink_contrast">#FFF0E6D2</color>
+    <!-- Light Theme - 6 Colors -->
+
+    <!--color name="red_wine">#FFB00020</color-->
+    <color name="lol_opaque_gold">#FFCDBE91</color>
+    <color name="lol_opaque_white">#FFF0E6D2</color>
+    <color name="translucid_black">#B000</color>
+</resources>
